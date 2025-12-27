@@ -1,0 +1,23 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer components {
+  @keyframes float {
+    0% { transform: translateY(0px); }
+    50% { transform: translateY(-10px); }
+    100% { transform: translateY(0px); }
+  }
+  
+  .animate-float {
+    animation: float 4s ease-in-out infinite;
+  }
+}
+
+body {
+  @apply bg-app font-inter text-text-secondary antialiased;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  @apply text-text-primary font-bold;
+}
