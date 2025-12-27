@@ -22,7 +22,7 @@ const Navbar = () => {
           <div className="w-10 h-10 bg-brand-500 rounded-lg flex items-center justify-center font-bold text-[#022c22] text-xl">
             R
           </div>
-          <span className="text-white font-bold text-xl tracking-tighter uppercase">RAY-HOLCS</span>
+          <span className="text-white font-bold text-xl tracking-tighter uppercase">MONTGOMERY</span>
         </div>
 
         {/* NAV LINKS - Desktop */}
