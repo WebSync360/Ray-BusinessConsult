@@ -1,27 +1,17 @@
-╔══════════════════════════════════════════════════════════════╗
-║                                                              ║
-║   █████╗ ██████╗ ███████╗██╗  ██╗     ███╗   ███╗███████╗    ║
-║  ██╔══██╗██╔══██╗██╔════╝╚██╗██╔╝     ████╗ ████║██╔════╝    ║
-║  ███████║██████╔╝█████╗   ╚███╔╝      ██╔████╔██║█████╗      ║
-║  ██╔══██║██╔═══╝ ██╔══╝   ██╔██╗      ██║╚██╔╝██║██╔══╝      ║
-║  ██║  ██║██║     ███████╗██╔╝ ██╗     ██║ ╚═╝ ██║███████╗    ║
-║  ╚═╝  ╚═╝╚═╝     ╚══════╝╚═╝  ╚═╝     ╚═╝     ╚═╝╚══════╝    ║
-║                                                              ║
-║          A P E X . M E N T O R  —  S Y S T E M                ║
-║                                                              ║
-╚══════════════════════════════════════════════════════════════╝
+---
+SARAH MONTGOMERY COACHING CONSULT EXPERT
 
-
+---
 > SYSTEM ROLE     : Conversion Landing System
 > TARGET USER     : Business Coaches / Mentors / Consultants
 > BUILD STATUS    : Production Ready
 > UI ENGINE       : React + Tailwind Component Architecture
 > OBJECTIVE       : Authority → Trust → Application
+---
 
-
-───────────────────────────────────────────────────────────────
+---
 BOOT SEQUENCE
-───────────────────────────────────────────────────────────────
+---
 
 [INIT] Loading Apex.Core......................... OK
 [INIT] Mounting Authority UI Modules............. OK
@@ -32,15 +22,16 @@ BOOT SEQUENCE
 SYSTEM STATE: OPERATIONAL
 
 
-───────────────────────────────────────────────────────────────
+---
 STRATEGIC OVERVIEW
-───────────────────────────────────────────────────────────────
+---
 
 Apex.Mentor is a premium, conversion-focused landing system
 engineered for professionals who sell expertise, clarity,
 and transformation — not commodities.
 
-This system is designed to:
+---
+# This system is designed to:
 
 • Establish authority within the first 5 seconds
 • Frame the visitor’s problem at a SYSTEM level
@@ -53,9 +44,9 @@ NO noise.
 ONLY signal.
 
 
-───────────────────────────────────────────────────────────────
-SECTION ARCHITECTURE
-───────────────────────────────────────────────────────────────
+---
+# SECTION ARCHITECTURE
+---
 
 [01] NAVBAR — Authority Anchor
      - Minimal surface area
@@ -96,9 +87,9 @@ SECTION ARCHITECTURE
      - Professional finish
 
 
-───────────────────────────────────────────────────────────────
-TECH STACK
-───────────────────────────────────────────────────────────────
+---
+# TECH STACK
+---
 
 FRAMEWORK   : React (Vite)
 STYLING     : TailwindCSS
@@ -108,22 +99,9 @@ NAVIGATION  : Single-page section flow
 BUILD       : Performance-optimized
 
 
-───────────────────────────────────────────────────────────────
-LOCAL DEPLOYMENT
-───────────────────────────────────────────────────────────────
-
-> git clone https://github.com/yourusername/apex-mentor.git
-> cd apex-mentor
-> npm install
-> npm run dev
-
-SERVER STATUS: http://localhost:5173
-MODE          : DEVELOPMENT
-
-
-───────────────────────────────────────────────────────────────
-BRAND SYSTEM
-───────────────────────────────────────────────────────────────
+---
+# BRAND SYSTEM
+---
 
 PRIMARY TONE  : Authority / Clarity
 COLOR LOGIC   :
@@ -138,25 +116,28 @@ DESIGN RULE  :
    IF IT DOES NOT INCREASE CLARITY → REMOVE IT
 
 
-───────────────────────────────────────────────────────────────
+---
 INTENDED DEPLOYMENT
-───────────────────────────────────────────────────────────────
+---
 
 • Business Coaches
 • Mindset Mentors
 • Consultants
 • Personal Brand Educators
 • High-Ticket Service Providers
+---
 
-SYSTEM FLEXIBILITY:
+---
+# SYSTEM FLEXIBILITY:
+---
 - Brand-customizable
 - Funnel-expandable
 - Automation-ready
 
 
-───────────────────────────────────────────────────────────────
-FINAL STATE
-───────────────────────────────────────────────────────────────
+---
+# FINAL STATE
+---
 
 SYSTEM ONLINE
 NO ERRORS
