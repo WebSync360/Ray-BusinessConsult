@@ -84,7 +84,7 @@ const Hero = () => {
               <div className="absolute -bottom-8 -right-8 z-30 bg-brand-500 p-8 rounded-2xl shadow-2xl">
                 <div className="flex flex-col space-y-1">
                   <span className="text-3xl font-bold text-[#022c22]">01/05</span>
-                  <span className="text-[10px] uppercase tracking-tighter text-[#022c22]/70 font-bold">Limited Slots Remaining.</span>
+                  <span className="text-[10px] uppercase tracking-tighter text-[#022c22]/70 font-bold">Limited Slots Remaining..</span>
                 </div>
               </div>
 
